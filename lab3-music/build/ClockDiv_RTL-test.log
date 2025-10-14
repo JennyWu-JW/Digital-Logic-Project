@@ -1,0 +1,5 @@
+
+../test/ClockDiv_RTL-test.v
+test_case_1_basic [32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m
+
+../test/ece2300-test.v:103: $finish called at 131 (1s)
